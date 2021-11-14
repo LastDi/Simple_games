@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Hippodrome:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Hippodrome_jar</output-path>
-    <root id="archive" name="Hippodrome.jar">
-      <element id="module-output" name="Hippodrome" />
-    </root>
-  </artifact>
-</component>
