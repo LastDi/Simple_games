@@ -1,5 +1,3 @@
-package com.javarush.task.task24.task2413;
-
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 
@@ -217,22 +215,3 @@ public class Arkanoid {
         game.run();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

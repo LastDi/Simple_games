@@ -1,5 +1,3 @@
-package com.javarush.task.task21.task2113;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,12 +12,12 @@ public class Hippodrome {
 
     public static void main(String[] args) {
         List<Horse> gameHorses = new ArrayList<>();
-        Horse skakun = new Horse("Skakun", 3d, 0d);
-        Horse prigun = new Horse("Prigun", 3d, 0d);
-        Horse tormoz = new Horse("Tormoz", 3d, 0d);
-        gameHorses.add(skakun);
-        gameHorses.add(prigun);
-        gameHorses.add(tormoz);
+        Horse pony = new Horse("Pony", 3d, 0d);
+        Horse rocket = new Horse("Rocket", 3d, 0d);
+        Horse bullet = new Horse("Bullet", 3d, 0d);
+        gameHorses.add(pony);
+        gameHorses.add(rocket);
+        gameHorses.add(bullet);
         game = new Hippodrome(gameHorses);
         game.run();
         game.printWinner();

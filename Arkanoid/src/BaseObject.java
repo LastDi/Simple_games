@@ -1,5 +1,3 @@
-package com.javarush.task.task24.task2413;
-
 /**
  * Базовый класс для всех объектов игры.
  */
