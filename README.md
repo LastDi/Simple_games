@@ -1,6 +1,7 @@
 # Simple_projects
-This directory contains my training projects.
-There are simple games here, and the "Model-View-Controller" project.
+Здесь собраны учебные проекты, которые были выполнены в процессе обучения.
+Проект Car Sharing реалузет работу с H2 базой данных
+Проект Spring boot example реализует работу REST-сервисов с помощью Spring
 
 
 ```bash
